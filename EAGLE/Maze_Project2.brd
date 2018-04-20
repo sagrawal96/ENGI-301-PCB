@@ -175,7 +175,7 @@
 <wire x1="0" y1="76.2" x2="0" y2="0" width="0" layer="20"/>
 <text x="2.286" y="16.002" size="2.54" layer="112">Serena Agrawal</text>
 <text x="2.286" y="11.684" size="2.54" layer="112">ENGI 301-MAZE PROJECT</text>
-<text x="2.286" y="72.39" size="1.778" layer="112">SRA</text>
+<text x="2.54" y="71.882" size="1.778" layer="112">SRA</text>
 <text x="2.54" y="8.636" size="1.778" layer="112">Revision 1a</text>
 </plain>
 <libraries>

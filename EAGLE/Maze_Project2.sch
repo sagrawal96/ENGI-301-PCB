@@ -1776,7 +1776,7 @@ ARRAY</text>
 <text x="182.88" y="208.28" size="6.35" layer="97">IMU</text>
 <text x="60.96" y="172.72" size="6.35" layer="97">LED ARRAY</text>
 <text x="144.78" y="15.24" size="6.35" layer="97">POCKET BEAGLE</text>
-<text x="53.34" y="111.76" size="6.35" layer="97">POWER BUTTON</text>
+<text x="50.8" y="109.22" size="6.35" layer="97">POWER BUTTON</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
